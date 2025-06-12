@@ -8,11 +8,11 @@
 
 | Page | Preview |
 |------|---------|
-| Link Generator (Form) | ![image](https://github.com/user-attachments/assets/b764c39c-f918-45fb-a799-c6de47686ea6)
-| Generated link        | ![image](https://github.com/user-attachments/assets/e4e8a2c7-5e08-4dee-b257-f5177bb4bcda)
-| Payment Page (Chrome) | ![image](https://github.com/user-attachments/assets/9e51e0aa-bbfa-4faa-8a42-f9ff7c24eb29)
-| Payment Page (Safari with Apple Pay) | ![image](https://github.com/user-attachments/assets/d1b9937d-0632-4a1d-bade-cf828af46030)
-| Thank You / Landing Page | ![image](https://github.com/user-attachments/assets/6da56b59-67a2-4b29-becd-59718dad21ee) |
+| Link Generator (Form) | ![image](https://github.com/user-attachments/assets/6881bc10-7553-44b8-a1ff-e548a5ce38b6)
+| Generated link        | ![image](https://github.com/user-attachments/assets/4d232022-7e0b-4197-b4dd-c2c3c1c9e5b2)
+| Payment Page (Chrome) | ![image](https://github.com/user-attachments/assets/507aa9ae-af15-4549-8a46-9adcad8edd52)
+| Payment Page (Safari with Apple Pay) | ![image](https://github.com/user-attachments/assets/25cfea3b-1080-4f93-80b2-2ab35fdb78f7)
+| Thank You / Landing Page | ![image](https://github.com/user-attachments/assets/dd8b776d-ee03-48d6-84d6-8fa00d07c7e8)|
 
 ---
 
