@@ -10,6 +10,7 @@ A ready-to-use implementation for generating secure payment links. It includes:
 - A responsive HTML frontend for generating links and testing the flow.
 - Support for Apple Pay and major browsers.
 - Support for Google Pay for all major browsers.
+- [API documentation](https://catalystpay.docs.oppwa.com/integrations/paybylink)
 
 ## Coming Soon
 
