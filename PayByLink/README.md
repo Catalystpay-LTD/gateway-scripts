@@ -35,7 +35,7 @@ http://localhost:3000
 📥 Download
 You can download the complete script archive below:
 
-➡️ Download PayByLink.zip
+[➡️ Download PayByLink.zip](https://github.com/Catalystpay-LTD/gateway-scripts/raw/main/PayByLink/PayByLink.zip)
 
 🧠 Features
 Generates secure hosted payment links via CatalystPay
