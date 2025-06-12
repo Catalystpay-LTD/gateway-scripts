@@ -9,6 +9,7 @@ A ready-to-use implementation for generating secure payment links. It includes:
 - A simple Node.js + Express backend to interact with the PayByLink API.
 - A responsive HTML frontend for generating links and testing the flow.
 - Support for Apple Pay and major browsers.
+- Support for Google Pay for all major browsers.
 
 ## Coming Soon
 
