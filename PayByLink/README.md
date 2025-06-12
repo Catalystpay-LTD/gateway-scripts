@@ -8,12 +8,11 @@
 
 | Page | Preview |
 |------|---------|
-| Link Generator (Form) | ![Screenshot 1](./screenshots/form.png) |
-| Payment Page (Chrome) | ![Screenshot 2](./screenshots/chrome.png) |
-| Payment Page (Safari with Apple Pay) | ![Screenshot 3](./screenshots/safari-applepay.png) |
-| Thank You / Landing Page | ![Screenshot 4](./screenshots/success.png) |
-
-> Add your screenshots to the `screenshots/` folder using these names.
+| Link Generator (Form) | ![image](https://github.com/user-attachments/assets/b764c39c-f918-45fb-a799-c6de47686ea6)
+| Generated link        | ![image](https://github.com/user-attachments/assets/e4e8a2c7-5e08-4dee-b257-f5177bb4bcda)
+| Payment Page (Chrome) | ![image](https://github.com/user-attachments/assets/9e51e0aa-bbfa-4faa-8a42-f9ff7c24eb29)
+| Payment Page (Safari with Apple Pay) | ![image](https://github.com/user-attachments/assets/d1b9937d-0632-4a1d-bade-cf828af46030)
+| Thank You / Landing Page | ![image](https://github.com/user-attachments/assets/6da56b59-67a2-4b29-becd-59718dad21ee) |
 
 ---
 
@@ -23,11 +22,11 @@
 2. Navigate to the `PayByLink` directory.
 3. Install dependencies:
 
-```bash
-npm install
+> npm install
+
 4. Run the server:
 
-node server.js
+> node server.js
 
 5. Open your browser and go to:
 
@@ -58,18 +57,5 @@ Terms & Conditions
 Privacy Policy
 
 ---
-
-### ✅ What You Need to Do:
-
-1. Create a `screenshots/` folder in the `PayByLink` directory.
-2. Upload your 4 screenshots named:
-   - `form.png`
-   - `chrome.png`
-   - `safari-applepay.png`
-   - `success.png`
-3. Upload your `PayByLink.zip` file.
-4. Add the above `README.md` file.
-
-Let me know if you'd like me to prep a ZIP version for you!
 
 
